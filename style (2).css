@@ -1,0 +1,20 @@
+body
+
+{
+    color: blueviolet;
+}
+
+.travel_mainDiv
+{
+    border: 1px solid lightcoral;
+}
+
+.travel_mainDiv img
+{
+    width:100%;
+}
+
+.travel_mainDiv h5 , .travel_main p
+{
+margin: 20px;
+}
